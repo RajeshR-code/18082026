@@ -15,5 +15,5 @@ resource "azurerm_resource_group" "rg3" {
 
 resource "azurerm_resource_group" "rg4" {
   name     = "Rajesh-rg4"
-  location = "Central India"
+  location = "South India"
 }
