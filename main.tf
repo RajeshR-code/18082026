@@ -25,5 +25,5 @@ resource "azurerm_resource_group" "rg5" {
 
 resource "azurerm_resource_group" "rg10" {
   name     = "Rajesh-rg10"
-  location = "South Inida"
+  location = "Central India"
 }
