@@ -22,3 +22,8 @@ resource "azurerm_resource_group" "rg5" {
   name     = "Rajesh-rg5"
   location = "Central India"
 }
+
+resource "azurerm_resource_group" "rg10" {
+  name     = "Rajesh-rg10"
+  location = "Central India"
+}
